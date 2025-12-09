@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/okx/:match*",
-      "destination": "https://www.okx.com/api/:match*"
-    }
-  ]
-}
