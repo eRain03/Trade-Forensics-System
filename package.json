@@ -3,4 +3,8 @@
     "vue": "3.5.15",
     "vue-router": "4.5.1"
   }
+  "scripts": {
+  "serve": "vue-cli-service serve",
+  "build": "vue-cli-service build"  <-- 如果是 Vite 项目，这会导致报错
+}
 }
